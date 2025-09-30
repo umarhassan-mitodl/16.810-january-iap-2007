@@ -4,6 +4,8 @@ description: Example of work for the homework assignment.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/bb85ee725776b80115c04f1c2fc08c09_assncexamp.pdf
 file_size: 235352
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

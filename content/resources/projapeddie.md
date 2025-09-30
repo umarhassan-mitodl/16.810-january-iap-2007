@@ -4,6 +4,8 @@ description: Sample student project.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/dc07e2a1b117e463f8b0231e9ec7ab4a_projapeddie.pdf
 file_size: 152372
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

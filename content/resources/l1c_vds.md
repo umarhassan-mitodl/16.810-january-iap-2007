@@ -4,6 +4,8 @@ description: This file contains information about Vehicle design summit.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/e3d201eb55acfd211fa485167f598e56_l1c_vds.pdf
 file_size: 471349
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

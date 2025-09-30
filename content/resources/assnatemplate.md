@@ -4,6 +4,8 @@ description: Assignment template.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/1f85af195510aa644b601082224b1e03_assnatemplate.pdf
 file_size: 14314
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
