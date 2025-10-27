@@ -43,7 +43,6 @@
     "website": "16-810-engineering-design-and-rapid-prototyping-january-iap-2007"
   },
   "course_title": "Engineering Design and Rapid Prototyping",
-  "hide_download": true,
   "course_description": "This course provides students with an opportunity to conceive, design and implement a product, using rapid prototyping methods and computer-aid tools. The first of two phases challenges each student team to meet a set of design requirements and constraints for a structural component. A course of iteration, fabrication, and validation completes this manual design cycle. During the second phase, each team conducts design optimization using structural analysis software, with their phase one prototype as a baseline.\n\nAcknowledgements\n----------------\n\nThis course is made possible thanks to a grant by the alumni sponsored Teaching and Education Enhancement Program (Class of '51 Fund for Excellence in Education, Class of '55 Fund for Excellence in Teaching, Class of '72 Fund for Educational Innovation). The instructors gratefully acknowledge the financial support. The course was approved by the Undergraduate Committee of the MIT Department of Aeronautics and Astronautics in 2003. The instructors thank Prof. Manuel Martinez-Sanchez and the committee members for their support and suggestions.\n",
   "department_numbers": [
     "16"
@@ -54,7 +53,6 @@
     "content": "8989a2c3-f4f9-9346-2968-f659b4145457",
     "website": "16-810-engineering-design-and-rapid-prototyping-january-iap-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples",

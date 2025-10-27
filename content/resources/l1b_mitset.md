@@ -4,8 +4,6 @@ description: This section contains information about the system overview of MITS
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/72ebce7ae955160b65f915e0ae558b46_l1b_mitset.pdf
 file_size: 464325
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

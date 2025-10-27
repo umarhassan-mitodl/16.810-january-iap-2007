@@ -4,8 +4,6 @@ description: This file contains information about Manufacturing - CAM.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/87f2de56f4b713b5b408a2fa05de14ee_l6b_mancam.pdf
 file_size: 457226
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

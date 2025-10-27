@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the assignment overview and a table which includes
   sessions,topics, activities and assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

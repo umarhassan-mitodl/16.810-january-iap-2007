@@ -4,8 +4,6 @@ description: This file contains information about Engineering Design and Rapid P
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/61f9d15b45e32a864e3c9a943d5ff88b_l1a_intro.pdf
 file_size: 803756
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
